@@ -1,0 +1,7 @@
+install:
+
+build:
+
+test:
+
+publish:
