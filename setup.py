@@ -11,7 +11,7 @@ with open('VERSION') as f:
 
 
 setup(
-    name='my-py-packaging',
+    name='my-py-framework-standards',
     description='Python framework and Standards',
     long_description=readme,
     version=version,
